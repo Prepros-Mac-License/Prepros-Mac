@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://img.informer.com/icons_mac/png/128/488/488119.png" width="200" alt="Prepros macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/Prepros">
+ <a href="https://gnomik-gomik-apps.github.io/.github/Prepros">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Prepros macOS page">
  </a><br><br>
  <div align="center">
